@@ -20,4 +20,4 @@
 
 #### :bar_chart: Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieZak&layout=compact)](https://github.com/StefanieZak?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieZakarian&layout=compact)](https://github.com/StefanieZakarian?tab=repositories)
