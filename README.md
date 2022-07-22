@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! :metal:
 
-<!--
-**StefanieZakarian/StefanieZakarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :books: Knowledges
 
-Here are some ideas to get you started:
+- Nuxt.js
+- Vue.js
+- JavaScript
+- Typescript
+- CSS3 (Flexbox and Grid layout)
+- SASS
+- HTML5
+- Jest
+- Figma
+- AdobeXD
+- Photoshop
+- Intermediate English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br/>
+
+#### :bar_chart: Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StefanieZak&layout=compact)](https://github.com/StefanieZak?tab=repositories)
